@@ -1,4 +1,5 @@
 include_recipe "java"
+include_recipe "git"
 include_recipe "zeromq::dev"
 
 source_package "jzmq" do
