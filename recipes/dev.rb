@@ -1,4 +1,4 @@
-include_recipe "build-essential"
+include_recipe "source"
 
 case node.platform_family
 when "debian"
