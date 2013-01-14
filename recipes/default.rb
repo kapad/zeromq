@@ -6,7 +6,7 @@
 # 
 # All rights reserved - Do Not Redistribute
 
-case node.platform_family?
+case node.platform_family
 when "debian"
   package "libzmq1"
 else
