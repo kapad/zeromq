@@ -2,4 +2,4 @@ site :opscode
 
 metadata
 
-cookbook "source", github: "fewbytes-cookbooks/source"
+cookbook "source", github: "kapad/source"
