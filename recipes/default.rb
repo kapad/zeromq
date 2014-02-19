@@ -12,4 +12,3 @@ when "debian"
 else
   package "zeromq"
 end
-
